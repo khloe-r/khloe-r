@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Khloe Ramdhan. I am a high school senior, freelance graphic designer and aspiring software engineer. 
+My name is Khloe Ramdhan. I am an incoming CS/BBA student @ UWaterloo!
+* 🔭 I'm currently a Software Engineering Intern @ West Oak Design
+* 🌱 I'm currently working on building personal projects and learning more about data science!
+* ☀️ This summer I'll be joining the Google CSSI Program
+* 📫 Feel free to reach out on [LinkedIn!](https://www.linkedin.com/in/khloe-ramdhan/)
