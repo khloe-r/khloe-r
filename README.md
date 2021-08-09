@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 My name is Khloe Ramdhan. I am an incoming CS/BBA student @ UWaterloo!
 * 🔭 I'm working as a Software Engineering Intern @ West Oak Design
 * 🌱 I'm currently building personal projects and learning more about data science!
-* ☀️ This summer I'll be attending the Google CSSI Program
-* 📫 Feel free to reach out on [LinkedIn!](https://www.linkedin.com/in/khloe-ramdhan/)
+* ☀️ This summer I attended the Google CSSI Program learning about JavaScript and Firebase
+* 📫 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/khloe-ramdhan/) or check out my hackathon projects on [Devpost](https://devpost.com/khloe-r)!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khloe-r&layout=compact&exclude_repo=cssi-labs)](https://github.com/anuraghazra/github-readme-stats)
