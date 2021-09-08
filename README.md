@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Khloe Ramdhan. I am an incoming CS/BBA student @ UWaterloo!
+My name is Khloe Ramdhan. I am an CS/BBA student @ UWaterloo!
 * 🌱 I'm currently building personal projects and learning more about data science!
 * ☀️ This summer I attended the Google CSSI Program learning and completed a Software Engineering Internship at West Oak Design Inc.
 * 📫 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/khloe-ramdhan/) or check out my hackathon projects on [Devpost](https://devpost.com/khloe-r)!
