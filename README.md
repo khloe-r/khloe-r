@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Khloe Ramdhan and I am a CS/BBA student @ UWaterloo and incoming SWE Intern @ Wealthsimple!
+My name is Khloe Ramdhan and I am a CS/BBA student @ UWaterloo and currently SWE Intern @ Wealthsimple!
 * 🌱 I'm currently building personal projects and learning more about data science!
 * ☀️ Last summer I attended the Google CSSI Program and completed a Software Engineering Internship at West Oak Design Inc.
 * 📫 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/khloe-ramdhan/) or check out my hackathon projects on [Devpost](https://devpost.com/khloe-r)!
