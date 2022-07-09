@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Khloe Ramdhan and I am a CS/BBA student @ UWaterloo and currently SWE Intern @ Wealthsimple!
-* 🌱 I'm currently building personal projects and learning more about data science!
+My name is Khloe Ramdhan and I am a soon-to-be 2nd year CS/BBA student @ UWaterloo and current SWE Intern @ Wealthsimple!
+* 🌱 I'm currently building personal projects and learning more about backend dev + data science!
 * ☀️ Last summer I attended the Google CSSI Program and completed a Software Engineering Internship at West Oak Design Inc.
 * 📫 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/khloe-ramdhan/) or check out my hackathon projects on [Devpost](https://devpost.com/khloe-r)!
-* 🌎 I recently launched my development portfolio, learn more about my journey [here!](https://khloe-r.github.io/dev-portfolio/)
+* 🌎 Visit my portfolio to learn more about my journey [here!](https://khloe-r.github.io/dev-portfolio/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khloe-r&layout=compact&exclude_repo=cssi-labs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=khloe-r&show_icons=true&theme=blueberry&hide_border=true&count_private=true" />
+</div>
