@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Khloe Ramdhan and I am a 2nd year CS/BBA student @ UWaterloo! This winter I am completing a Software Engineering Internship @ Wealthsimple on their Book of Records team
 
-* 🔭 I'm currently working on a new project using Django + GraphQL to make finding roommates easier!
+* 🔭 I'm currently working on a new project to make finding roommates easier!
 * 🌱 I'm currently learning more about backend development + data science!
 * ☀️ Over the past 2 summers, I completed a Software Engineering Internship @ Wealthsimple on their Unified Experience team, attended the Google CSSI Program and completed a Software Engineering Internship @ West Oak Design Inc.
 * 📫 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/khloe-ramdhan/) or check out my hackathon projects on [Devpost](https://devpost.com/khloe-r)!
