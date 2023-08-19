@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Khloe Ramdhan and I am a 2nd year CS/BBA student @ UWaterloo! This past winter I completed a Software Engineering Internship @ Wealthsimple on their Book of Records team
+My name is Khloe Ramdhan and I am a 3rd year CS/BBA student @ UWaterloo! This past winter I completed a Software Engineering Internship @ Wealthsimple on their Book of Records team
 
 * 🔭 I'm currently working on a new project to make finding roommates easier!
 * 🌱 I'm currently learning more about backend development + data science!
