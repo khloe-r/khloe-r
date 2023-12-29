@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Khloe Ramdhan and I am a 3rd year CS/BBA student @ UWaterloo! This past winter I completed a Software Engineering Internship @ Wealthsimple on their Book of Records team
+My name is Khloe Ramdhan and I am a 3rd year CS/BBA student @ UWaterloo! This winter I will be completing a Software Engineering Internship @ StackAdapt and this summer I'll be completing a Software Engineering Internship @ Stripe
 
-* 🔭 I'm currently working on a new project to make finding roommates easier!
-* 🌱 I'm currently learning more about backend development + data science!
-* ☀️ Over the past 2 summers, I completed a Software Engineering Internship @ Wealthsimple on their Unified Experience team, attended the Google CSSI Program, and completed a Software Engineering Internship @ West Oak Design Inc.
+* 🌱 I'm currently learning more about mobile and backend development!
+* ☀️ Prev Software Engineering Intern @ Wealthsimple x 2, West Oak Design and Google CSSI Program Participant
 * 📫 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/khloe-ramdhan/) or check out my hackathon projects on [Devpost](https://devpost.com/khloe-r)!
 * 🌎 Visit my portfolio to learn more about my journey [here!](https://khloe-r.github.io/dev-portfolio/)
