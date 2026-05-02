@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Khloe Ramdhan and I am a 4th year CS/BBA student @ UWaterloo!
+My name is Khloe Ramdhan and I am a recent CS/BBA graduate @ University of Waterloo and Wilfrid Laurier University!
 
-* 🌱 I'm currently learning more about mobile and backend development!
-* ☀️ Prev Software Engineering Intern @ Stripe, StackAdapt, Wealthsimple x 2, West Oak Design + Google CSSI Program Participant
+* 🌱 I'm currently an incoming New Grad Software Engineer @ Optiver!
+* ☀️ Prev Software Engineering Intern @ Optiver, Databricks, Stripe, StackAdapt, Wealthsimple x 2, West Oak Design + Google CSSI Program Participant
 * 📫 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/khloe-ramdhan/) or check out my hackathon projects on [Devpost](https://devpost.com/khloe-r)!
 * 🌎 Visit my portfolio to learn more about my journey [here!](https://khloe-r.github.io/dev-portfolio/)
